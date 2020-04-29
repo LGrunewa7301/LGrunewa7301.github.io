@@ -11,7 +11,7 @@
 
 ### Other
 
-- Imperius is still watching. From far away he chews his popcorn, waiting for enlightenment in Markdown. Help him out by going to the Google Doc [How To Use Github]() and adding questions, comments, and concerns. You can brush up on your Markdown while helping the poor Roman out. Maybe one day he'll have a repository of his own and won't need to watch us anymore.
-- BTW Imperius is also a test image. He's useful as well as watchful.
+- Imperius is still watching. From far away he chews his popcorn, waiting for enlightenment in Markdown. Help him out by going to the Google Doc How To Use Github and adding questions, comments, and concerns. You can brush up on your Markdown while helping the poor Roman out. Maybe one day he'll have a repository of his own and won't need to watch us anymore.
+- By the way, Imperius is also a test image. He's useful as well as watchful.
 
-![he is watching, even if the picture link is broken]()
+![he is watching, even if the picture link is broken](imperius_popcorn.png)
