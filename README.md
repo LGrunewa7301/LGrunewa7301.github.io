@@ -15,3 +15,6 @@
 - By the way, Imperius is also a test image. He's useful as well as watchful.
 
 ![he is watching, even if the picture link is broken](imperius_popcorn.png)
+
+
+![test image for me](biomechanicalengineer_bubblehouse.png)
