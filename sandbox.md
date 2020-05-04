@@ -1,4 +1,4 @@
-# everything should now move if i type this title blah blah yadda yadda 
+# everything should not move if i type this title blah blah yadda yadda 
 
 
 
