@@ -5,6 +5,6 @@
 <a href="http://google.com.au/" rel="some text">![Foo](imperius_popcorn.png)</a>
 
 <IMG STYLE="position:absolute; TOP:35px; LEFT:170px" SRC="imperius_popcorn.png">
-<IMG STYLE="position:absolute; TOP:650px; LEFT:250px" SRC="button_linnea.png">
+<IMG STYLE="position:absolute; TOP:620px; LEFT:400px" SRC="button_linnea.png">
 
 <center><img src="rough circle.png"></center>
