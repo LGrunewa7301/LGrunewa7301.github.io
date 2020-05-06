@@ -13,3 +13,12 @@ The medical wing of our settlement is made up of 3 main components, which are as
 |Motion sickness/disorientation| Radiation sickness (characterized by nausea, vomiting, anorexia and fatigue) |
 |Shallow or disturbed sleep cycles| Possibel damge to the nervous system, causing altered cognitive function, reduced motor function and behavioral changes|
 
+### Dangers to citizen and astronaut safety and health
+#### Space Radiation
+Space radiation is a huge threat to the wellfare of human beings, causing (as shown above) radiation sickeness, along with an increased risk of cancer. This radiation comes in 3 main forms: particles trapped in Earth's magnetic field, particles shot into space during solar flares, and galatic cosmic rays (a mix of high-energy protons and heavy ions from outside of our solar system. This radiation comes from many sources, such as elements in Earth's crust, stars and other astrophysical objects, but the main culprit is our Sun. The flaming ball of gas emits all 7 wavelngths of the elctromagnetic spectrum (radiowaves, microwaves, infrared, visible light, ultraviolet, x-rays and gamma rays). During a soalr flare,copious amounts of radiation is released (called a solar particle event, or an SPE) i n the forms of x-rays, gamma rays, protons and electrons.
+One very common measurement for radiation is a milli-sievert, and astronauts are exposed to an average of 50 mSv to 2,000 mSv, a dangerous amount equilvalent to 150 to 6,000 chest x-rays (1,000 mSv causes fatal cancer in 5% of people). 
+
+
+
+
+
