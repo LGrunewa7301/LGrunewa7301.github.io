@@ -4,15 +4,15 @@
 <table border>
   <tr>
     <td>
-      section one
+      <img src = "imperius_popcorn.png"> </img>
     </td>
     <td>
-      section two
+      <img src = "buttontemplate.png"> </img>
     </td>
   </tr>
   <tr>
     <td>
-      section three
+      section 3
     </td>
     <td>
       section 4
