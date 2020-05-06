@@ -2,20 +2,20 @@
 # ah well
 
 <table border>
-    <td>
+   <tr>
+     <td>
       <img src = "imperius_popcorn.png"> </img>
-  <tr>
-    </td>
-    <td>
+     </td>
+     <td>
       <img src = "buttontemplate.png"> </img>
-    </td>
+     </td>
   </tr>
   <tr>
     <td>
       <img src = "button_linnea.png"> </img>
     </td>
     <td>
-      <img src = "button_abby"> </img>
+      <img src = "button_abby.png"> </img>
     </td>
   </tr>
 </table>
