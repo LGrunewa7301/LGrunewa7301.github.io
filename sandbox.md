@@ -4,17 +4,17 @@
 <table border>
    <tr>
      <td>
-      <img src = "imperius_popcorn.png"> </img>
+      <img src = "imperius_popcorn.png" alt = "imperius 1">
      <td>
-      <img src = "buttontemplate.png"> </img>
+      <img src = "buttontemplate.png">
      </td>
   </tr>
   <tr>
     <td>
-      <img src = "button_linnea.png"> </img>
+      <img src = "button_linnea.png">
     </td>
     <td>
-      <img src = "button_abby.png"> </img>
+      <img src = "button_abby.png">
     </td>
   </tr>
 </table>
@@ -22,8 +22,7 @@
 
  <a href = "https://www.tutorialspoint.com/html/html_image_links.htm" target = "_self"> 
          <img src = "buttontemplate.png" alt = "Tutorials Point button" border = "0"/>
-   </img>
-   </href>
+</href>
 
 
 <table>
@@ -31,7 +30,7 @@
   <td>
    
 <a href="http://google.com" rel="some text"> 
-  <img src="http://www.myiconfinder.com/uploads/iconsets/256-256-b362b0f23a100870b45756f91e65194a-Mars.png" alt="this is mars"></img>
+  <img src="http://www.myiconfinder.com/uploads/iconsets/256-256-b362b0f23a100870b45756f91e65194a-Mars.png" alt="this is mars">
   </a>
     </td>
   </tr>
