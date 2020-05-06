@@ -1,6 +1,7 @@
-# everything should not move if i type this title blah blah yadda yadda 
+# i probably broke everything with tables
+# ah well
 
-<table border = 0>
+<table border>
   <tr>
     <td>
       section one
@@ -21,7 +22,7 @@
 
 
 
-<table border=4>
+<table>
   <tr>
   <td>
    
@@ -33,9 +34,7 @@
   
 <tr>
   <td>
-<IMG STYLE="position:absolute; TOP:35px; LEFT:170px" SRC="imperius_popcorn.png">
-  
-<IMG STYLE="position:absolute; TOP:620px; LEFT:800px" SRC="button_linnea.png">
+there was once an image here
   </td>
   </tr>
      <tr>
@@ -49,4 +48,8 @@
  
 </table>
 
+
+<IMG STYLE="position:absolute; TOP:35px; LEFT:170px" SRC="imperius_popcorn.png">
+  
+<IMG STYLE="position:absolute; TOP:620px; LEFT:800px" SRC="button_linnea.png">
 <center><img src="rough circle.png"></center>
