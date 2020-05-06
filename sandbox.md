@@ -5,7 +5,6 @@
    <tr>
      <td>
       <img src = "imperius_popcorn.png"> </img>
-  
      <td>
       <img src = "buttontemplate.png"> </img>
      </td>
