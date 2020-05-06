@@ -2,9 +2,9 @@
 # ah well
 
 <table border>
-  <tr>
     <td>
       <img src = "imperius_popcorn.png"> </img>
+  <tr>
     </td>
     <td>
       <img src = "buttontemplate.png"> </img>
@@ -12,10 +12,10 @@
   </tr>
   <tr>
     <td>
-      section 3
+      <img src = "button_linnea.png"> </img>
     </td>
     <td>
-      section 4
+      <img src = "button_abby"> </img>
     </td>
   </tr>
 </table>
