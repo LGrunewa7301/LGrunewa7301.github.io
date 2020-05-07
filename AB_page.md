@@ -19,7 +19,16 @@ Space radiation is a huge threat to the wellfare of human beings, causing (as sh
 One very common measurement for radiation is a milli-sievert, and astronauts are exposed to an average of 50 mSv to 2,000 mSv, a dangerous amount equilvalent to 150 to 6,000 chest x-rays (1,000 mSv causes fatal cancer in 5% of people). 
 
 #### Spacesuit malfunctions
-The spacesuits generally used for EVA (extravehicular activities) are called EMUs (Extravehicular mobility units). These  bulky, white uncomfortable suits have a long way to go for form, yet still provide constant life support thrughout an expidition, along wth atmospheric containment, thermal insulation, cooling, soalr radiation protection, and protecting from micrometeoroids and orbital debris (MMOD). They are maintained at a slightly lower pressure than the ISS. Malfunctions here are rare but can be incredibly hazardous, if not fatal, to the person wearing it.
+The spacesuits generally used for EVA (extravehicular activities) are called EMUs (Extravehicular mobility units). These  bulky, white uncomfortable suits have a long way to go for form, yet still provide constant life support thrughout an expidition, along wth atmospheric containment, thermal insulation, cooling, soalr radiation protection, and protecting from micrometeoroids and orbital debris (MMOD). They are maintained at a slightly lower pressure than the ISS. Malfunctions here are rare but can be incredibly hazardous, if not fatal, to the person wearing it. One of the faults which can occur in EMUs is decompression sickness, or DCS, known as 'the bends' among SCUBA divers. This malady is caused by nitrogen dissolving into tissue and blood becuase of high pressure to the body. It is the result of inadequate denirogenation before an EVA. To prevent this serious issue, astronauts breathe 100% oxygen while in the suit. 
+
+[Normal Heartbeat](https://www.asc-csa.gc.ca/videos/StNoBubshort.wav)
+
+[DCS Heartbeat](https://www.asc-csa.gc.ca/videos/StManyBubshort.wav)
+
+#### Cardiovascular and Osteopathic Deteorioration/Dysfunction
+
+
+
 
 
 
