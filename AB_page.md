@@ -26,6 +26,14 @@ The spacesuits generally used for EVA (extravehicular activities) are called EMU
 [DCS Heartbeat](https://www.asc-csa.gc.ca/videos/StManyBubshort.wav)
 
 #### Cardiovascular and Osteopathic Deteorioration/Dysfunction
+One potential threat to the wellness of all inhabitants is the decline of systems in the body, the main two being skeletal and cariovascular. Bones will decrease in density from 1%-2% per month, significantly rasing the risk for osteopenia, osteoporosis, and osteoporosis-related fractures later in life. As for the cadriovascular system, once in space, a cephalad fluid shift ccurs (fluid from the lower portions of the body move to the upper portions), so muscles and arteries are no longer as heartily worked, causing a decreased ability to control blood pressure, and a redcution in the size and strength of the cardiac muscles. Without proper treament, these ailments will inevitably worsen over time spent in microgravity. 
+
+## Sections of the Wing
+
+### Med Bay
+The Med bay is the main section of this wing, providing first aid, general medical care and specialized care for all astronauts and citizens. The bay will be stocked with critical equpiment such as MRI/CAT scanners, defibrillators, portable ultrasounds, EKGs (electrocardiogram), and binocular indirect ophthalmoscopes, used for seeing directly inside a human eye, along with the necessary medications, sterilizers, anesthetics, and saline solutions. 
+
+### Biology/Research Laboratories
 
 
 
