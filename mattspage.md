@@ -28,3 +28,6 @@
 ## The supply closet
 ### Its used for holding supllys
 
+## The big plan
+### The wing needs alll this stuuf because its meant for thhe reacherch of how to teriform mars just practiced in a more controlled inviorment. so everything has its pupose in the wing somemore than others but the extrastras help with mental heath as well as mantaining socialness with others
+
