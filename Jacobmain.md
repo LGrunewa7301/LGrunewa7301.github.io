@@ -49,7 +49,7 @@
 
 
 
-# Video talking points
+# OTHER POINTS
 - Mars is moving 86871 kmh so you can't go straight there or you would crash into it
 - The trip to mars took 253 days for the curiosity lander 
 - The calculations are very complicated and one error can cost the whole project. An example of this is in 1999 for a mars orbiter they didn't convert from pounds to newtons and was placed in the atmosphere and destroyed by the atmospheric friction.  
