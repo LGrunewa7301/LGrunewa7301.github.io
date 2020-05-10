@@ -1,7 +1,7 @@
 # i probably broke everything with tables
 # ah well
 
-<table 0>
+<table border=0>
    <tr>
       <td>
          quadrant 1
@@ -20,7 +20,7 @@
    </tr>
 </table>
 
-<table bo,.rder<>=0>
+<table border=0>
    <tr>
      <td>
       <img src = "imperius_popcorn.png" alt = "imperius 1">
