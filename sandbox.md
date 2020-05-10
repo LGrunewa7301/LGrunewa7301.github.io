@@ -1,6 +1,6 @@
 # i probably broke everything with tables
 # ah well
-<table b=0>
+<table>
    <tr>
       <td>
          <img src = "mars-quad-1.png" alt = "quad 1">
