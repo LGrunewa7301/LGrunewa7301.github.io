@@ -1,24 +1,24 @@
 # i probably broke everything with tables
 # ah well
 
-<table border=0>
    <tr>
       <td>
-         quadrant 1
+         <img src = "mars-quad-1.png" alt = "quad 1">
       </td>
       <td>
-         quadrant 2
+         <img src = "mars-quad-2.png" alt = "quad 2">
       </td>
    </tr>
+   
    <tr>
       <td>
-         quadrant 3
+         <img src = "mars-quad-3.png" alt = "quad 3">
       </td>
       <td>
-         quadrant 4
+         <img src = "mars-quad-4.png" alt = "quad 4">
       </td>
    </tr>
-</table>
+
 
 <table border=0>
    <tr>
