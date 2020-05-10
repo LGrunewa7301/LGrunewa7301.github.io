@@ -9,9 +9,6 @@
          <img src = "mars-quad-2.png" alt = "quad 2">
       </td>
    </tr>
-  </table>
-   
-   
    <tr>
       <td>
          <img src = "mars-quad-3.png" alt = "quad 3">
@@ -20,7 +17,7 @@
          <img src = "mars-quad-4.png" alt = "quad 4">
       </td>
    </tr>
-
+</table>
 
 <table border=0>
    <tr>
