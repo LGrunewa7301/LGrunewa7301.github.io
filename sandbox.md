@@ -9,7 +9,7 @@
          <img src = "mars-quad-2.png" alt = "quad 2">
       </td>
    </tr>
-   
+  </table>
    
    
    <tr>
