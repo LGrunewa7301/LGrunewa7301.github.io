@@ -1,7 +1,26 @@
 # i probably broke everything with tables
 # ah well
 
-<table border>
+<table 0>
+   <tr>
+      <td>
+         quadrant 1
+      </td>
+      <td>
+         quadrant 2
+      </td>
+   </tr>
+   <tr>
+      <td>
+         quadrant 3
+      </td>
+      <td>
+         quadrant 4
+      </td>
+   </tr>
+</table>
+
+<table bo,.rder<>=0>
    <tr>
      <td>
       <img src = "imperius_popcorn.png" alt = "imperius 1">
