@@ -1,7 +1,22 @@
-This is going to be the main page later on.
+This is going to be the main page.
+        
+        
+      
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
 
 - [Abby's Page](AB_page.md)
-- [Linnea's Page]()
+- [Linnea's Page](Linnea-main.md)
 - [Jacob's Page](Jacobmain.md)
 - [Matthew's Page](mattspage.md)
 - [Nate's Page - needs creating]()
