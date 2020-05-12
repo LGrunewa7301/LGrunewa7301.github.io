@@ -14,6 +14,19 @@ The medical wing of our settlement is made up of 3 main components, which are as
 <td>Rare effects (worst case scenarios)</td>
 </tr>
 
+<table width="80%" border="1" cellspacing="0" cellpadding="10">
+      <tr>
+          <td><div align="center"><strong># of classes</strong></div></td>
+          <td><div align="center"><strong>1 child</strong></div></td>
+          <td><div align="center"><strong>2 children - 10% off</strong></div></td>
+          <td><div align="center"><strong>3 children - 25% off</strong></div></td>
+        </tr>
+    <tr>
+        <td><p align="center"><b>1 session</b> (8 classes)</p></td>
+        <td><p align="center">$145.00</p></td>
+        <td><p align="center">$260.00</p></td>
+        <td><p align="center">$325</p></td>
+        </tr>
 
  
 |---|---|
