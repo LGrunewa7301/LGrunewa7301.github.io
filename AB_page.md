@@ -5,7 +5,23 @@ The medical wing of our settlement is made up of 3 main components, which are as
 ![Flightsurgeon](Flightsurgeon-01.jpg)
 
 ### Known effects of microgravity and space travel on humans
-|Common effects| Rare effects (worst case scenarios) |
+
+<table>
+<tr>
+  <td>Common effects</td>
+  <td>
+  
+  
+</tr>
+
+  <tr>
+<td>Rare effects (worst case scenarios)
+</tr>
+
+</td> //end column
+<td> // start new column
+
+ 
 |---|---|
 |Puffiness in face and 10%-30% decrease in leg circumfrence| Kidney Stones|
 |Nasal stuffiness and/or eye abnormalities| Increased risk of cancer |
@@ -14,6 +30,7 @@ The medical wing of our settlement is made up of 3 main components, which are as
 |Demineralization of skeleton/decrease in bone density (osteopenia)| Increased risk of depression |
 |Motion sickness/disorientation| Radiation sickness (characterized by nausea, vomiting, anorexia and fatigue) |
 |Shallow or disturbed sleep cycles| Possible damage to the nervous system, causing altered cognitive function, reduced motor function and behavioral changes|
+
 
 ### Dangers to citizen/astronaut safety 
 #### Space Radiation
