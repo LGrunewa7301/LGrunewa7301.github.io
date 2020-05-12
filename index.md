@@ -3,7 +3,9 @@ layout: default
 title: Mars Test Title
 ---
 
-# Welcome to our Mars Base! rty
+# Welcome to our Mars Base!
+
+![Mars panorama](shutterstock_1041249343.jpg)
 
 - [Abby's Page](AB_page.md)
 - [Linnea's Page](Linnea-main.md)
