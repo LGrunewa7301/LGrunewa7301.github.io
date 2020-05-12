@@ -1,4 +1,9 @@
-# Welcome to our Mars Base! iu
+---
+layout: default
+title: Mars Test Title
+---
+
+# Welcome to our Mars Base! op
 
 - [Abby's Page](AB_page.md)
 - [Linnea's Page](Linnea-main.md)
