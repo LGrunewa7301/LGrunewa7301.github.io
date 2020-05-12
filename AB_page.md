@@ -8,26 +8,41 @@ The medical wing of our settlement is made up of 3 main components, which are as
 
 <table>
 <tr>
-  <td>Common effects</td>
-  <td>Rare effects (worst case scenarios)</td>
+  <td><b>Common effects</b></td>
+  <td><b>Rare effects (worst case scenarios)</b></td>
 </tr>
   
 <tr>  
-  <td>
-
+  <td>Puffiness in face and 10%-30% decrease in leg circumference</td>
+  <td>Kidney Stones</td>
 </tr>
+<tr>
+  <td>Nasal stuffiness and/or eye abnormalities</td>
+  <td>Increased risk of cancer</td>
+  </tr>
+<tr>
+  <td>Reduction of red blood cells</td>
+  <td>Increased risk of osteoporis-related fractures</td>
+  </tr>
+<tr>
+  <td>Profound muscle atrophy</td>
+  <td>Affected hand-eye and head-eye coordnation issues, along with problems involving spatial awareness and balance</td>
+  </tr>
+<tr>
+  <td>Demineralization of skeleton/decrease in bone density (osteopenia)</td>
+  <td>Increased risk of depression</td>
+  </tr>
+<tr>
+  <td>Motion sickness/disorientation</td>
+  <td>Radiation sickness (characterized by nausea, vomiting, anorexia and fatigue)</td>
+  </tr>
+<tr>
+  <td>Shallow or disturbed sleep cycles</td>
+  <td>Possible damage to the nervous system, causing altered cognitive function, reduced motor function and behavioral changes</td>
+</tr>
+</table>
 
  
-|---|---|
-|Puffiness in face and 10%-30% decrease in leg circumfrence| Kidney Stones|
-|Nasal stuffiness and/or eye abnormalities| Increased risk of cancer |
-|Reduction of red blood cells | Increased risk of osteoporis-related fractures|
-|Profound muscle atrophy| Affected hand-eye and head-eye coordnation issues, along with problems involving spatial awareness and balance |
-|Demineralization of skeleton/decrease in bone density (osteopenia)| Increased risk of depression |
-|Motion sickness/disorientation| Radiation sickness (characterized by nausea, vomiting, anorexia and fatigue) |
-|Shallow or disturbed sleep cycles| Possible damage to the nervous system, causing altered cognitive function, reduced motor function and behavioral changes|
-
-
 ### Dangers to citizen/astronaut safety 
 #### Space Radiation
 Space radiation is a huge threat to the wellfare of human beings, causing (as shown above) radiation sickeness, along with an increased risk of cancer. This radiation comes in 3 main forms: particles trapped in Earth's magnetic field, particles shot into space during solar flares, and galatic cosmic rays (a mix of high-energy protons and heavy ions from outside of our solar system. This radiation comes from many sources, such as elements in Earth's crust, stars and other astrophysical objects, but the main culprit is our Sun. The flaming ball of gas emits all 7 wavelngths of the elctromagnetic spectrum (radiowaves, microwaves, infrared, visible light, ultraviolet, x-rays and gamma rays). During a soalr flare,copious amounts of radiation is released (called a solar particle event, or an SPE) in the forms of x-rays, gamma rays, protons and electrons.
