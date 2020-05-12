@@ -9,17 +9,11 @@ The medical wing of our settlement is made up of 3 main components, which are as
 <table>
 <tr>
   <td>Common effects</td>
-  <td>
-  
-  
+</tr>
+<tr>  
+<td>Rare effects (worst case scenarios)</td>
 </tr>
 
-  <tr>
-<td>Rare effects (worst case scenarios)
-</tr>
-
-</td> //end column
-<td> // start new column
 
  
 |---|---|
