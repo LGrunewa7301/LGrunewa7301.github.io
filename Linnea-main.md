@@ -6,12 +6,12 @@ My wing is where we keep spare life support. There's an air pressurizer in every
 Our food supply has to fufill these criteria in order to be viable on Mars.
 - Fast turnover of crop
 - Able to rebound from crop failure
-- Preferably very hard to have failure at all
-- Easy to care for, easy to feed
-- Shouldn’t require extra special or super heavy equipment
+- Infrequent crop failure
+- Easy and efficient to feed
+- Shouldn’t require special or heavy equipment
 - Able to provide all the nutrients humans need to live
 
-This excludes many kinds of food we have on Earth. Most plants need dirt to live, which is in short supply on Mars. 
+This excludes many kinds of food we have on Earth. Most plants need dirt to live, which is in short supply on Mars. Livestock require a lot of space, food, and time to be worth raising, and long term the investment isn't worth making. There's nothing to forage on Mars
 
 Stuff to copy/paste
 ```Insects 
