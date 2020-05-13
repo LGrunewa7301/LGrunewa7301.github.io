@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mars Test Title
+title: Mars Base Main Page
 ---
 
 # Welcome to our Mars Base!
