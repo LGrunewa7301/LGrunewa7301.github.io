@@ -7,7 +7,7 @@ title: Mars Base Main Page
 ![](transparentblock.png)
 
 
-<IMG STYLE="position:absolute; TOP:235px; LEFT:170px" SRC="AwesomeMars-small.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:180px" SRC="AwesomeMars-small.png">
 <IMG STYLE="position:absolute; TOP:35px; LEFT:100px" SRC="finnbutton.png">
 <IMG STYLE="position:absolute; TOP:35px; LEFT:200px" SRC="button_abby.png">
 <IMG STYLE="position:absolute; TOP:35px; LEFT:300px" SRC="button_linnea.png">
