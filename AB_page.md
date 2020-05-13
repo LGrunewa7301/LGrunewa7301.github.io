@@ -73,4 +73,6 @@ We will begin monitoring the symptoms of extended stays in Mars' microgravity, a
 Whenever space travel is an option, there are dangers. There are immedate dangers, of course, but also slower declines into disease and malady. As stated above, the bones and cardiac muscles in one's body deteriorate without proper treatment. The most effective treatment found is constant exercise, which prevents the systems from atrophying and sending one into a medical downwards spiral. Before and after launch, astronauts work out for an average of two hours per day, a pattern which protects them from losing density and minerals in the bones and also prevents the repercussions of the cephalad fluid shift.
 
 
-[Back to main hub](index.md)
+<a href = "https://lgrunewa7301.github.io/" target = "self">
+Back to hub
+</a>
