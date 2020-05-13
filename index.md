@@ -15,7 +15,7 @@ title: Mars Base Main Page
   <IMG STYLE="position:absolute; TOP:460px; LEFT:495px" SRC="button_abby.png">
 </a>
 <a href = "https://lgrunewa7301.github.io/Linnea-main.html" target = "_blank">
-  <IMG STYLE="position:absolute; TOP:340px; LEFT:445px" SRC="button_linnea.png">
+  <IMG STYLE="position:absolute; TOP:340px; LEFT:445px" SRC="button-fancy_linnea.png">
 </a>
 <a href = "https://lgrunewa7301.github.io/Nates_page.html" target = "_blank">
 <IMG STYLE="position:absolute; TOP:460px; LEFT:75px" SRC="button_nate.png">
