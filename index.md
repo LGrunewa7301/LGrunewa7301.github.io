@@ -4,24 +4,15 @@ title: Mars Base Main Page
 ---
 
 # Welcome to our Mars Base!
+![](transparentblock.png)
+![](transparentblock.png)
 
-<IMG STYLE="position:absolute; TOP:35px; LEFT:10px" SRC="AwesomeMars.png">
+
+<IMG STYLE="position:absolute; TOP:35px; LEFT:10px" SRC="AwesomeMars-small.png">
 <IMG STYLE="position:absolute; TOP:35px; LEFT:100px" SRC="finnbutton.png">
 <IMG STYLE="position:absolute; TOP:35px; LEFT:200px" SRC="button_abby.png">
 <IMG STYLE="position:absolute; TOP:35px; LEFT:300px" SRC="button_linnea.png">
-.
-  
-  .
-  
-  .
-  
-  .
-  
-  .
-  
-  .
-  
-  .
+
 
 - [Abby's Page](AB_page.md)
 - [Linnea's Page](Linnea-main.md)
