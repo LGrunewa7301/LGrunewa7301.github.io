@@ -54,3 +54,6 @@
 - The trip to mars took 253 days for the curiosity lander 
 - The calculations are very complicated and one error can cost the whole project. An example of this is in 1999 for a mars orbiter they didn't convert from pounds to newtons and was placed in the atmosphere and destroyed by the atmospheric friction.  
 
+<a href = "https://lgrunewa7301.github.io/" target = "self">
+ Back to main page
+</a>
