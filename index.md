@@ -3,7 +3,7 @@ layout: default
 title: Mars Base Main Page
 ---
 
-# Welcome to our Mars Base! qwerty
+# Welcome to our Mars Base!
 
 <a href = "https://lgrunewa7301.github.io/" target = "self">
   <IMG STYLE="position:absolute; TOP:370px; LEFT:180px" SRC="AwesomeMars-small.png">
