@@ -8,9 +8,9 @@ title: Mars Base Main Page
 
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:180px" SRC="AwesomeMars-small.png">
-<IMG STYLE="position:absolute; TOP:355px; LEFT:100px" SRC="button_finn.png">
-<IMG STYLE="position:absolute; TOP:460px; LEFT:480px" SRC="button_abby.png">
-<IMG STYLE="position:absolute; TOP:355px; LEFT:465px" SRC="button_linnea.png">
+<IMG STYLE="position:absolute; TOP:340px; LEFT:100px" SRC="button_finn.png">
+<IMG STYLE="position:absolute; TOP:460px; LEFT:485px" SRC="button_abby.png">
+<IMG STYLE="position:absolute; TOP:340px; LEFT:465px" SRC="button_linnea.png">
 <IMG STYLE="position:absolute; TOP:460px; LEFT:75px" SRC="button_nate.png">
 <IMG STYLE="position:absolute; TOP:255px; LEFT:220px" SRC="button_jacob.png">
 <IMG STYLE="position:absolute; TOP:255px; LEFT:340px" SRC="button_matthew.png">
