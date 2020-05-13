@@ -3,12 +3,12 @@ layout: default
 title: Mars Base Main Page
 ---
 
-# Welcome to our Mars Base!
+# Welcome to our Mars Base! qwerty
 
-<a href = "https://lgrunewa7301.github.io/" target = "_self">
+<a href = "https://lgrunewa7301.github.io/" target = "self">
   <IMG STYLE="position:absolute; TOP:370px; LEFT:180px" SRC="AwesomeMars-small.png">
 </a>
-<a href = "https://lgrunewa7301.github.io/finn-main.html" target = "_self">
+<a href = "https://lgrunewa7301.github.io/finn-main.html" target = "_blank">
   <IMG STYLE="position:absolute; TOP:340px; LEFT:120px" SRC="button_finn.png">
 </a>
 <a href = "https://lgrunewa7301.github.io/AB_page.html" target = "_self">
