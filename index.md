@@ -5,13 +5,27 @@ title: Mars Base Main Page
 
 # Welcome to our Mars Base!
 
-<IMG STYLE="position:absolute; TOP:370px; LEFT:180px" SRC="AwesomeMars-small.png">
-<IMG STYLE="position:absolute; TOP:340px; LEFT:120px" SRC="button_finn.png">
-<IMG STYLE="position:absolute; TOP:460px; LEFT:495px" SRC="button_abby.png">
-<IMG STYLE="position:absolute; TOP:340px; LEFT:445px" SRC="button_linnea.png">
+<a href = "https://lgrunewa7301.github.io/" target = "_self">
+  <IMG STYLE="position:absolute; TOP:370px; LEFT:180px" SRC="AwesomeMars-small.png">
+</a>
+<a href = "https://lgrunewa7301.github.io/finn-main.html" target = "_self">
+  <IMG STYLE="position:absolute; TOP:340px; LEFT:120px" SRC="button_finn.png">
+</a>
+<a href = "https://lgrunewa7301.github.io/AB_page.html" target = "_self">
+  <IMG STYLE="position:absolute; TOP:460px; LEFT:495px" SRC="button_abby.png">
+</a>
+<a href = "https://lgrunewa7301.github.io/Linnea-main.html" target = "_self">
+  <IMG STYLE="position:absolute; TOP:340px; LEFT:445px" SRC="button_linnea.png">
+</a>
+<a href = "https://lgrunewa7301.github.io/Nates_page.html" target = "_self">
 <IMG STYLE="position:absolute; TOP:460px; LEFT:75px" SRC="button_nate.png">
+</a>
+<a href = "https://lgrunewa7301.github.io/Jacobmain.html" target = "_self">
 <IMG STYLE="position:absolute; TOP:275px; LEFT:220px" SRC="button_jacob.png">
+</a>
+<a href = "https://lgrunewa7301.github.io/mattspage.html" target = "_self">
 <IMG STYLE="position:absolute; TOP:275px; LEFT:340px" SRC="button_matthew.png">
+</a>
 ![](transparentblock.png)
 - [Abby's Page](AB_page.md)
 - [Linnea's Page](Linnea-main.md)
