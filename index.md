@@ -8,9 +8,12 @@ title: Mars Base Main Page
 
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:180px" SRC="AwesomeMars-small.png">
-<IMG STYLE="position:absolute; TOP:35px; LEFT:100px" SRC="finnbutton.png">
+<IMG STYLE="position:absolute; TOP:35px; LEFT:100px" SRC="button_finn.png">
 <IMG STYLE="position:absolute; TOP:35px; LEFT:200px" SRC="button_abby.png">
 <IMG STYLE="position:absolute; TOP:35px; LEFT:300px" SRC="button_linnea.png">
+<IMG STYLE="position:absolute; TOP:135px; LEFT:100px" SRC="button_nate.png">
+<IMG STYLE="position:absolute; TOP:135px; LEFT:200px" SRC="button_jacob.png">
+<IMG STYLE="position:absolute; TOP:135px; LEFT:300px" SRC="button_matthew.png">
 
 
 - [Abby's Page](AB_page.md)
