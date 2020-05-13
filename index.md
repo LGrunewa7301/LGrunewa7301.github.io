@@ -4,8 +4,6 @@ title: Mars Base Main Page
 ---
 
 # Welcome to our Mars Base!
-![](transparentblock.png)
-
 
 <IMG STYLE="position:absolute; TOP:370px; LEFT:180px" SRC="AwesomeMars-small.png">
 <IMG STYLE="position:absolute; TOP:340px; LEFT:120px" SRC="button_finn.png">
@@ -14,8 +12,7 @@ title: Mars Base Main Page
 <IMG STYLE="position:absolute; TOP:460px; LEFT:75px" SRC="button_nate.png">
 <IMG STYLE="position:absolute; TOP:275px; LEFT:220px" SRC="button_jacob.png">
 <IMG STYLE="position:absolute; TOP:275px; LEFT:340px" SRC="button_matthew.png">
-
-
+![](transparentblock.png)
 - [Abby's Page](AB_page.md)
 - [Linnea's Page](Linnea-main.md)
 - [Jacob's Page](Jacobmain.md)
@@ -23,6 +20,9 @@ title: Mars Base Main Page
 - [Nate's Page](Nates_page.md)
 - [Finn's Page](finn-main.md)
 
+# Who we are
+
+# Where we are
 ![Mars panorama](shutterstock_1041249343.jpg)
 (The base is underground. You might not be able to see it.)
 
