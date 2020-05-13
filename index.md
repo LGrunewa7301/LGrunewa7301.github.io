@@ -5,7 +5,6 @@ title: Mars Base Main Page
 
 # Welcome to our Mars Base!
 ![](transparentblock.png)
-![](transparentblock.png)
 
 
 <IMG STYLE="position:absolute; TOP:35px; LEFT:10px" SRC="AwesomeMars-small.png">
