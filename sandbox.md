@@ -79,3 +79,14 @@ there was once an image here
   
 <IMG STYLE="position:absolute; TOP:620px; LEFT:800px" SRC="button-fancy_nate.png">
 <center><img src="rough circle.png"></center>
+   
+   
+   ```
+   # Dormitories
+The dormitories form the upper floor of my wing. They're next to each other, with all the rooms being hexagons. Hexagons save the most material when the walls are being built, and are easy to direct a 3D printer to build.
+Most of the dormitories are in one place. This keeps people close together and talking, which can be the difference between someone going crazy and hiding in their locked wings and a sane person.
+
+Inside, the lighting is LED. LEDs save a lot of energy because of how they work  - they don't need to heat up in order to glow, saving all of that heat energy. We also won't need to account for lighting in our HVAC. LEDs come in lots of fun colors, and we can have our lights be a dance party for all of our Mars rave dreams.
+
+The furniture will be 3D printed, to save cargo space.
+```
