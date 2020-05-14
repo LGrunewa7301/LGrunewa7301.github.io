@@ -27,24 +27,24 @@
 <table border=0>
    <tr>
      <td>
-      <img src = "imperius_popcorn.png" alt = "imperius 1">
+      <img src = "button-fancy_finn.png">
      <td>
-      <img src = "buttontemplate.png">
+      <img src = "button-fancy_template.png">
      </td>
   </tr>
   <tr>
     <td>
-      <img src = "button_linnea.png">
+      <img src = "button-fancy_linnea.png">
     </td>
     <td>
-      <img src = "button_abby.png">
+      <img src = "button-fancy_abby.png">
     </td>
   </tr>
 </table>
 
 
  <a href = "https://www.tutorialspoint.com/html/html_image_links.htm" target = "_self"> 
-         <img src = "buttontemplate.png" alt = "Tutorials Point button" border = "0"/>
+         <img src = "button-fancy_jacob.png" alt = "Tutorials Point button" border = "0"/>
 </a>
 
 
@@ -77,5 +77,5 @@ there was once an image here
 
 <IMG STYLE="position:absolute; TOP:35px; LEFT:170px" SRC="imperius_popcorn.png">
   
-<IMG STYLE="position:absolute; TOP:620px; LEFT:800px" SRC="button_linnea.png">
+<IMG STYLE="position:absolute; TOP:620px; LEFT:800px" SRC="button-fancy_nate.png">
 <center><img src="rough circle.png"></center>
