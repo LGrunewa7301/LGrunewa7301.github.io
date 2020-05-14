@@ -9,9 +9,12 @@ Mars doesn't have enough gravity to allow for normal toilets. On the ISS, toilet
 - Liquid waste we can process back into drinking water. We do this on the ISS already.
 - Solid waste we use to feed our farms.
 
-# Entomoculture
+![Bubble House](biomechanicalengineer_bubblehouse.png)
 
-Our food supply has to fufill these criteria in order to be viable on Mars.
+# Food
+
+## What's a good thing to farm?
+Food processing is great, but what are we going to be preparing? Our food supply has to fufill these criteria in order to be viable on Mars.
 - Fast turnover of crop
 - Able to rebound from crop failure
 - Infrequent crop failure
@@ -21,21 +24,23 @@ Our food supply has to fufill these criteria in order to be viable on Mars.
 
 This excludes many kinds of food we have on Earth. Most plants need dirt to live, which is in short supply on other planets. Livestock require a lot of space, food, and time to be worth raising, and long term the investment isn't worth making. There's nothing to forage on Mars either.
 
+## Entomoculture
+
 One of our first food sources will be insects. The black soldier fly has a fat, oily grub and tame, silent adults with no sting. We already do a little bit of soldier fly farming on Earth, and we know how to raise and eat them. The grubs taste like nuts - after all, they have a lot of oil to grow into an adult bug, kind of like how a nut has a lot of oil to grow into an adult tree.
 Soldier flies live in plastic bins or vats, and eat sewage. We can save our sewage to feed to the farm! We won't get sick from eating them because of how different flies are to humans. They digest everything dangerous to us, and we get to harvest some of the grubs. which have good balances of vitamin B, fat, iron, calcium, and amino acids.
 
-# Algae Bay & Hydroponics
+## Algae Bay & Hydroponics
 
 Algae is full of potassium, iron, magnesium, many B complex vitamins, and vitamin C. It grows in vats perfectly well and it helps to make gelatin. Once we get on our feet on Mars, we could send in an algae and hydroponics bay. (Bonus: Boba is made with seaweed and algae. If we get tea onto Mars we can have boba tea!)
 
 Hydroponics has come a long way and can help bring variety to the Martian diet by allowing us to grow Earth vegtables and herbs, along with cotton to help replace clothing and sheets. In the hydroponic water we can raise fish, because the fish help plants to grow and the plants help the fish to grow.
 
-# Food Processing
+## Food Processing
 
 How will we cook this food, though? We can seperate grubs into oil and flour, which allows us to make all sorts of things. We can also send in spices as light cargo with other shipments. Baking food is going to be a main way of cooking, because low gravity means no frying or boiling due to safety issues. When we bake we'll be using high-altitude versions of recipies, as the air pressure is probably going to be lower than on Earth.
 
 
-![Bubble House](biomechanicalengineer_bubblehouse.png)
+
 
 
 
