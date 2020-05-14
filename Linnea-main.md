@@ -2,14 +2,14 @@
 My wing is where we keep spare life support. There's an air pressurizer in every wing and in the main area, and all of them will need to be fixed, along with broken air locks. Some of the stuff stored here:
 
 ## Air Pressure
-For every room in the base we'll need to have air pressure similar to Earth's and a good air flow. This allows the air to have oxygen and other gases mixed into it and for people to breathe. We'll also need air locks everywhere - between base and outside, between wings and central hubs, even for medical wings and for lab rooms. This allows for the base to have more efficient air conditioning and
+For every room in the base we'll need to have air pressure similar to Earth's and a good air flow. This allows the air to have oxygen and other gases mixed into it and for people to breathe. We'll also need air locks everywhere - between base and outside, between wings and the central hub, even for medical wings and for lab rooms. This allows for the base to have more efficient air conditioning, and if a wing fails and starts letting in Martian air the whole base won't depressurize.
 
 ## Space Toilets
 Mars doesn't have enough gravity to allow for normal toilets. On the ISS, toilets work with air suction and waste is exposed to the vacum of space in order to prevent it from spreading disease and smell. For a Mars base, we might want the suction part, but what we do with it after will change. Once we collect everything, we can seperate it into two categories:
 - Liquid waste we can process back into drinking water. We do this on the ISS already.
 - Solid waste we use to feed our farms.
 
-# Farming / Cafeteria
+# Farming: Entomoculture / Algae Bay
 
 Our food supply has to fufill these criteria in order to be viable on Mars.
 - Fast turnover of crop
