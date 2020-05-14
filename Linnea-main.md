@@ -1,5 +1,11 @@
 # Life Support
-My wing is where we keep spare life support. There's an air pressurizer in every wing - our base will end up quite big - but when they need repairing I'm the person who helps fix them.
+My wing is where we keep spare life support. There's an air pressurizer in every wing and in the main area, and all of them will need to be fixed, along with broken air locks.
+
+## Air Pressure
+For every room in the base we'll need to have air pressure similar to Earth's and a good air flow. This allows the air to have oxygen and other gases mixed into it and for people to breathe. We'll also need air locks everywhere - between base and outside, between wings and central hubs, even for medical wings and for lab rooms. This allows for the base to have more efficient air conditioning and
+
+## Space Toilets
+Mars doesn't have enough gravity to allow for normal toilets. On the ISS, toilets work with suction
 
 # Farming / Cafeteria
 
@@ -19,14 +25,6 @@ Soldier flies live in plastic bins or vats, and eat sewage. We can save our sewa
 We won't eat them as-is, though. We can seperate grubs into oil and flour, which allows us to make all sorts of things. We can also send in spices as light cargo with other shipments.
 
 Once we get more established on Mars we can start bringing in other kinds of farms. Hydroponics has come a long way and can help bring variety to the Martian diet by allowing us to grow Earth vegtables and herbs, along with cotton to help replace clothing and sheets. In the hydroponic water we can raise fish, because the fish help plants to grow and the plants help the fish to grow.
-
-# Dormitories
-The dormitories form the upper floor of my wing. They're next to each other, with all the rooms being hexagons. Hexagons save the most material when the walls are being built, and are easy to direct a 3D printer to build.
-Most of the dormitories are in one place. This keeps people close together and talking, which can be the difference between someone going crazy and hiding in their locked wings and a sane person.
-
-Inside, the lighting is LED. LEDs save a lot of energy because of how they work  - they don't need to heat up in order to glow, saving all of that heat energy. We also won't need to account for lighting in our HVAC. LEDs come in lots of fun colors, and we can have our lights be a dance party for all of our Mars rave dreams.
-
-The furniture will be 3D printed, to save cargo space.
 
 
 ![Bubble House](biomechanicalengineer_bubblehouse.png)
