@@ -9,13 +9,11 @@ For every room in the base we'll need to have air pressure similar to Earth's an
 ## Space Toilets
 Mars doesn't have enough gravity to allow for normal toilets. On the ISS, toilets work with air suction and waste is exposed to the vacum of space in order to prevent it from spreading disease and smell. For a Mars base, we might want the suction part, but what we do with it after will change. Once we collect everything, we can seperate it into two categories:
 - Liquid waste we can process back into drinking water. We do this on the ISS already.
-- Solid waste we use to feed our farms.
-
-
+- Solid waste we use to fertilize our farms.
 
 # Food
 
-## What's a good thing to farm?
+## What's a good food source to farm?
 Food processing is great, but what are we going to be preparing? Our food supply has to fufill these criteria in order to be viable on Mars.
 - Fast turnover of crop
 - Able to rebound from crop failure
