@@ -1,3 +1,5 @@
+![Bubble House](biomechanicalengineer_bubblehouse.png)
+
 # Life Support
 My wing is where we keep spare life support. There's an air pressurizer in every wing and in the main area, and all of them will need to be fixed, along with broken air locks. Some of the stuff stored here:
 
@@ -9,7 +11,7 @@ Mars doesn't have enough gravity to allow for normal toilets. On the ISS, toilet
 - Liquid waste we can process back into drinking water. We do this on the ISS already.
 - Solid waste we use to feed our farms.
 
-![Bubble House](biomechanicalengineer_bubblehouse.png)
+
 
 # Food
 
