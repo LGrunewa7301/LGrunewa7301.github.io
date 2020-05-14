@@ -1,11 +1,13 @@
 # Life Support
-My wing is where we keep spare life support. There's an air pressurizer in every wing and in the main area, and all of them will need to be fixed, along with broken air locks.
+My wing is where we keep spare life support. There's an air pressurizer in every wing and in the main area, and all of them will need to be fixed, along with broken air locks. Some of the stuff stored here:
 
 ## Air Pressure
 For every room in the base we'll need to have air pressure similar to Earth's and a good air flow. This allows the air to have oxygen and other gases mixed into it and for people to breathe. We'll also need air locks everywhere - between base and outside, between wings and central hubs, even for medical wings and for lab rooms. This allows for the base to have more efficient air conditioning and
 
 ## Space Toilets
-Mars doesn't have enough gravity to allow for normal toilets. On the ISS, toilets work with suction
+Mars doesn't have enough gravity to allow for normal toilets. On the ISS, toilets work with air suction and waste is exposed to the vacum of space in order to prevent it from spreading disease and smell. For a Mars base, we might want the suction part, but what we do with it after will change. Once we collect everything, we can seperate it into two categories:
+- Liquid waste we can process back into drinking water. We do this on the ISS already.
+- Solid waste we use to feed our farms.
 
 # Farming / Cafeteria
 
@@ -22,13 +24,13 @@ This excludes many kinds of food we have on Earth. Most plants need dirt to live
 One of our first food sources will be insects. The black soldier fly has a fat, oily grub and tame, silent adults. We already do a little bit of soldier fly farming on Earth, and we know how to raise and eat them. The grubs taste like nuts - after all, they have a lot of oil to grow into an adult bug, kind of like how a nut has a lot of oil to grow into an adult tree.
 Soldier flies live in plastic bins or vats, and eat sewage. We can save our sewage to feed to the farm! We won't get sick from eating them because of how different flies are to humans. They digest everything dangerous to us, and we get to harvest some of the grubs. which have good balances of vitamin B, fat, iron, calcium, and amino acids.
 
-We won't eat them as-is, though. We can seperate grubs into oil and flour, which allows us to make all sorts of things. We can also send in spices as light cargo with other shipments.
-
 Once we get more established on Mars we can start bringing in other kinds of farms. Hydroponics has come a long way and can help bring variety to the Martian diet by allowing us to grow Earth vegtables and herbs, along with cotton to help replace clothing and sheets. In the hydroponic water we can raise fish, because the fish help plants to grow and the plants help the fish to grow.
+
+How will we cook this food, though? We can seperate grubs into oil and flour, which allows us to make all sorts of things. We can also send in spices as light cargo with other shipments. Baking food is going to be a main way of cooking, because low gravity means no frying or boiling due to safety issues. When we bake we'll be using high-altitude versions of recipies, as the air pressure is probably going to be lower than on Earth.
 
 
 ![Bubble House](biomechanicalengineer_bubblehouse.png)
 
 
 
-[Under Construction link to "Bubble Houses"]() | [Under Construction link to "Dormitories"]() | [Under Construction link to "Farming"]()
+[Under Construction link to "Bubble Houses"]() | [Under Construction link to "Farming"]()
