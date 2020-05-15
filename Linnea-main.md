@@ -1,7 +1,9 @@
-![Bubble House](biomechanicalengineer_bubblehouse.png)
+
 
 # Life Support
-My wing is where we keep essential life support. There's an air pressurizer in every wing and in the main area, and all of them will need to be fixed, along with broken air locks. Some of the stuff stored here:
+My wing is where we keep essential life support. There's an air pressurizer in every wing and in the main area, and all of them will need to be fixed, along with broken air locks. Some of the stuff stored here will be listed below!
+
+![Bubble House](biomechanicalengineer_bubblehouse.png)
 
 ## Air Pressure
 For every room in the base we'll need to have air pressure similar to Earth's and a good air flow. This allows the air to have oxygen and other gases mixed into it and for people to breathe. We'll also need air locks everywhere - between base and outside, between wings and the central hub, even for medical wings and for lab rooms. This allows for the base to have more efficient air conditioning, and if a wing fails and starts letting in Martian air the whole base won't depressurize.
