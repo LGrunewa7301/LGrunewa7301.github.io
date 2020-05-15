@@ -1,7 +1,7 @@
 ![Bubble House](biomechanicalengineer_bubblehouse.png)
 
 # Life Support
-My wing is where we keep spare life support. There's an air pressurizer in every wing and in the main area, and all of them will need to be fixed, along with broken air locks. Some of the stuff stored here:
+My wing is where we keep essential life support. There's an air pressurizer in every wing and in the main area, and all of them will need to be fixed, along with broken air locks. Some of the stuff stored here:
 
 ## Air Pressure
 For every room in the base we'll need to have air pressure similar to Earth's and a good air flow. This allows the air to have oxygen and other gases mixed into it and for people to breathe. We'll also need air locks everywhere - between base and outside, between wings and the central hub, even for medical wings and for lab rooms. This allows for the base to have more efficient air conditioning, and if a wing fails and starts letting in Martian air the whole base won't depressurize.
@@ -31,7 +31,7 @@ Soldier flies live in plastic bins or vats, and eat sewage. We can save our sewa
 
 ## Algae Bay & Hydroponics
 
-Algae is full of potassium, iron, magnesium, many B complex vitamins, and vitamin C. It grows in vats perfectly well and it helps to make gelatin. Once we get on our feet on Mars, we could send in an algae and hydroponics bay. (Bonus: Boba is made with seaweed and algae. If we get tea onto Mars we can have boba tea!)
+Algae is full of potassium, iron, magnesium, many B complex vitamins, and vitamin C. It grows in vats perfectly well and it helps to make gelatin. Once we get on our feet on Mars, we could send in an algae and hydroponics bay.
 
 Hydroponics has come a long way and can help bring variety to the Martian diet by allowing us to grow Earth vegtables and herbs, along with cotton to help replace clothing and sheets. In the hydroponic water we can raise fish, because the fish help plants to grow and the plants help the fish to grow.
 
