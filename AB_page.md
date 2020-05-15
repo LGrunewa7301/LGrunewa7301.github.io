@@ -2,7 +2,7 @@
 ## Overview
 The medical wing of our settlement is made up of 3 main components, which are as follows: med bay, biology/research laboratories, and the fitness and exercise centers. All of these elements are crucial in maintaining the wellbeing of our astronauts and citizens throughout the revolutionary journey. As is obvious, the med bay contains the most important sections of this wing, containing technologies, treatments and medications that will be used for both first aid and regular care. Labs are key for discovering and monitoring the effects of microgravity and Martian conditions on the human body, which is a main area of research during this mission. Finally, the fitness section of our annexe prevents further deterioration of systems in the body, maintaining the health of all residents. 
 
-![Flightsurgeon](Flightsurgeon-01.jpg)
+![Abbyspacewing](Abbyspacewing.png)
 
 ### Known effects of microgravity and space travel on humans
 
@@ -41,6 +41,8 @@ The medical wing of our settlement is made up of 3 main components, which are as
   <td>Possible damage to the nervous system, causing altered cognitive function, reduced motor function and behavioral changes</td>
 </tr>
 </table>
+
+![Flightsurgeon](Flightsurgeon-01.jpg)
 
  
 ### Dangers to citizen/astronaut safety 
