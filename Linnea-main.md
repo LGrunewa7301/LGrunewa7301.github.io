@@ -6,10 +6,8 @@ A schematic of how the overall life support should work:
 
 ![Nasa Life Support Schematic](lifesupportschematic.png)
 
-
-
 ## Air Pressure
-For every room in the base we'll need to have air pressure similar to Earth's and a good air flow. This allows the air to have oxygen and other gases mixed into it and for people to breathe. We'll also need air locks everywhere - between base and outside, between wings and the central hub, even for medical wings and for lab rooms. This allows for the base to have more efficient air conditioning, and if a wing fails and starts letting in Martian air the whole base won't depressurize.
+For every room in the base we'll need to have air pressure similar to Earth's and a good air flow. This allows the air to have oxygen and other gases mixed into it and for people to breathe. We'll also need air locks everywhere - between base and outside, between wings and the central hub, even for medical wings and for lab rooms. This allows for the base to have more efficient air conditioning, and works as a failsafe; if a wing fails and starts letting in Martian air the whole base won't depressurize.
 
 ![Bubble House](biomechanicalengineer_bubblehouse.png)
 
@@ -36,7 +34,8 @@ This excludes many kinds of food we have on Earth. Most plants need dirt to live
 ## Entomoculture
 
 One of our first food sources will be insects. The black soldier fly has a fat, oily grub and tame, silent adults with no sting. We already do a little bit of soldier fly farming on Earth, and we know how to raise and eat them. The grubs taste like nuts - after all, they have a lot of oil to grow into an adult bug, kind of like how a nut has a lot of oil to grow into an adult tree.
-Soldier flies live in plastic bins or vats, and eat sewage. We can save our sewage to feed to the farm! We won't get sick from eating them because of how different flies are to humans. They digest everything dangerous to us, and we get to harvest some of the grubs. which have good balances of vitamin B, fat, iron, calcium, and amino acids.
+
+Soldier flies live in plastic bins or vats, and eat sewage, making them very efficient to farm. We won't get sick from prion diseases when eating them because of how different flies are to humans; they break down food differently than we do. They digest everything dangerous to us, and we get to harvest some of the grubs. which have good balances of vitamin B, fat, iron, calcium, and amino acids.
 
 ## Algae Bay & Hydroponics
 
