@@ -39,13 +39,15 @@ Soldier flies live in plastic bins or vats, and eat sewage, making them very eff
 
 ## Algae Bay & Hydroponics
 
-Algae is full of potassium, iron, magnesium, many B complex vitamins, and vitamin C. It grows in vats perfectly well and it helps to make gelatin. Once we get on our feet on Mars, we could send in an algae and hydroponics bay.
-
+Algae is full of potassium, iron, magnesium, many B complex vitamins, and vitamin C. It grows in vats perfectly well, and fish can live alongside it to help it grow.
+Algae helps to make agar, used in foods similarly to gelatin.
 Hydroponics has come a long way and can help bring variety to the Martian diet by allowing us to grow Earth vegtables and herbs, along with cotton to help replace clothing and sheets. In the hydroponic water we can raise fish, because the fish help plants to grow and the plants help the fish to grow.
+
+Once we get on our feet on Mars, we could send in an algae and hydroponics bay.
 
 ## Food Processing
 
-How will we cook this food, though? We can seperate grubs into oil and flour, which allows us to make all sorts of things. We can also send in spices as light cargo with other shipments. Baking food is going to be a main way of cooking, because low gravity means no frying or boiling due to safety issues. When we bake we'll be using high-altitude versions of recipies, as the air pressure is probably going to be lower than on Earth.
+How will we cook this food, though? We can seperate grubs into oil and flour, which allows us to make all sorts of things. We can also send in spices as light cargo with other shipments. Baking food is going to be a main way of cooking, because low gravity means no frying or boiling due to safety issues. When we bake, we might be using high-altitude versions of recipies, as the air pressure is likely to be lower than on Earth.
 
 
 
