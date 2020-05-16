@@ -1,7 +1,7 @@
 
 
 # Life Support
-My wing is where we keep essential life support. There's an air pressurizer in every wing and in the main area, and all of them will need to be fixed, along with broken air locks.
+My wing is where we keep essential life support. There's an air pressurizer in every wing and in the main area, but the control center is here along with resources to repair broken life support.
 A schematic of how the overall life support should work:
 
 ![Nasa Life Support Schematic](lifesupportschematic.png)
