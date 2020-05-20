@@ -21,7 +21,7 @@ Mars doesn't have enough gravity to allow for normal toilets. On the ISS, toilet
 # Food
 
 ## What's a good food source to farm?
-Food processing is great, but what are we going to be preparing? Our food supply has to fufill these criteria in order to be viable on Mars.
+Our food supply has to fufill these criteria in order to be viable on Mars.
 - Fast turnover of crop
 - Able to rebound from crop failure
 - Infrequent crop failure
@@ -47,7 +47,7 @@ Once we get on our feet on Mars, we could send in an algae and hydroponics bay.
 
 ## Food Processing
 
-How will we cook this food, though? We can seperate grubs into oil and flour, which allows us to make all sorts of things. We can also send in spices as light cargo with other shipments. Baking food is going to be a main way of cooking, because low gravity means no frying or boiling due to safety issues. When we bake, we might be using high-altitude versions of recipies, as the air pressure is likely to be lower than on Earth.
+How will we cook our food? We can seperate grubs into oil and flour, which allows us to make all sorts of things. We can also send in spices as light cargo with other shipments. Baking food is going to be a main way of cooking, because low gravity means no frying or boiling. When we bake, we might be using high-altitude versions of recipies, as the air pressure is likely to be lower than on Earth.
 
 
 
