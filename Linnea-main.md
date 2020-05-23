@@ -16,7 +16,7 @@ Mars doesn't have enough gravity to allow for normal toilets. On the ISS, toilet
 - Liquid waste we can process back into drinking water. We do this on the ISS already.
 - Solid waste we use to fertilize our farms.
 
-
+![ISS space toilet](spacetoilet.jpg)
 
 # Food
 
